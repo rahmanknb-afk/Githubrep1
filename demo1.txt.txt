@@ -1,1 +1,4 @@
 code day 1
+
+code day 2
+
